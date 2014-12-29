@@ -3,7 +3,6 @@ Imports System.Net
 Imports System.IO
 Imports System.Text
 Imports GeoMap.geo.model
-Imports GeoMap.geo.format
 
 
 Namespace geo.finder
@@ -33,40 +32,6 @@ Namespace geo.finder
                 _url = value
             End Set
         End Property
-
-        Public Function find(ByVal address As String, ByVal comuna As String, ByVal provincia As String, ByVal region As String) As GeoLocation
-            Dim addressSearch As String
-            addressSearch = address + _
-                            "," + comuna + _
-                            "," + provincia + _
-                            "," + region + _
-                            "&components=country:CL"
-            Dim geoLocation As New GeoLocation
-            geoLocation.geocode = findAddress(addressSearch)
-
-            If geoLocation.err.exist Then
-                Dim addressRemaster As String
-                Dim geoLocationRemaster As New GeoLocation
-                addressRemaster = Normalized.optimize(address)
-
-                addressSearch = addressRemaster + _
-                            "," + comuna + _
-                            "," + provincia + _
-                            "," + region + _
-                            "&components=country:CL"
-
-
-                geoLocationRemaster.geocode = findAddress(addressSearch)
-
-                If geoLocationRemaster.err.exist Then
-                    Return geoLocation
-                Else
-                    Return geoLocationRemaster
-                End If
-            End If
-
-            Return geoLocation
-        End Function
 
         Public Function find(ByVal street As String, ByVal number As String, ByVal comuna As String, ByVal provincia As String, ByVal region As String)
             Dim addressSearch As String

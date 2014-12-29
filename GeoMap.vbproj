@@ -54,7 +54,6 @@
   <ItemGroup>
     <Compile Include="error\GeoError.vb" />
     <Compile Include="error\TypeError.vb" />
-    <Compile Include="format\Normalized.vb" />
     <Compile Include="model\AddressComponent.vb" />
     <Compile Include="model\Geocode.vb" />
     <Compile Include="finder\GeoFinder.vb" />
