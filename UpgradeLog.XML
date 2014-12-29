@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GeoMap">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\GeoMap.sln">
+</Property><Property Name="Date" Value="lunes, 29 de diciembre de 2014">
+</Property><Property Name="Time" Value="11:22:09">
+</Property></Properties><Event ErrorLevel="0" Project="GeoMap" Source="GeoMap.vbproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\GeoMap.vbproj">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="error\GeoError.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\error\GeoError.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="error\TypeError.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\error\TypeError.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="format\Normalized.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\format\Normalized.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\AddressComponent.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\AddressComponent.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\Geocode.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\Geocode.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="finder\GeoFinder.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\finder\GeoFinder.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\GeoLocation.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\GeoLocation.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\Geometry.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\Geometry.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\Location.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\Location.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="model\GeoResults.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\model\GeoResults.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\AssemblyInfo.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Application.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Resources.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Settings.Designer.vb" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Application.myapp" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="My Project\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\cristofer\Documents\Visual Studio 2005\Projects\GeoMap\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="GeoMap.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="GeoMap" Source="GeoMap.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeoMap" Source="GeoMap.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>
